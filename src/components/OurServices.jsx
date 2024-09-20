@@ -2,7 +2,7 @@ import React from 'react'
 
 const OurServices = () => {
   return (
-    <div className="py-12">
+    <div className="py-12 mx-24">
       <div className="text-center mb-10">
         <h2 className="text-center my-20 font-bold text-4xl">Our Services</h2>
       </div>
