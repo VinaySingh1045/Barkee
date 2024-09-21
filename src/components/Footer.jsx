@@ -15,7 +15,7 @@ const Footer = () => {
 
                             <div className='w-[40%]'>
                                 <h1 className="text-2xl font-bold mb-2">
-                                    <img src="/image.png" alt="" className='invert w-[114px] h-[38px]' />
+                                BeAPetParent
                                 </h1>
                                 <p className="mb-4">We provide the best service for your pets. Please come and visit our shop.</p>
                                 <div className="flex space-x-4">

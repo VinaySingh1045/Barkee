@@ -7,8 +7,7 @@ const Navbar = () => {
                 <div className="flex justify-between items-center p-6 mx-32">
 
                     <div className="flex items-center">
-                        <img src="/image.png" alt="Logo" className="h-14 mr-2" />
-                        <h1 className="text-white text-2xl font-bold"></h1>
+                        <h1 className="text-white text-3xl font-bold">BeAPetParent</h1>
                     </div>
 
                     <div className="flex items-center gap-7">
